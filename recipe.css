@@ -38,12 +38,16 @@ ul{
     list-style-image: url('https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif');
 }
 
-.cpr p{
+blockquote{
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+
+.cpr{
     font-family: monospace;
     text-align: right;
 }
-.cmt div{
-    font-style: italic;
-    background-color: #FFFFA8;
+#validator{
+    text-align: right;
 }
 
