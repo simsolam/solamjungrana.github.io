@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+}
+
+
+
+h2 {
+    color: blue;
+    font: bold 20px Verdana, sans-serif;
+}
+p,li{
+    font: 15px "Trebuchet MS",sans-serif;
+}
+
+
+
